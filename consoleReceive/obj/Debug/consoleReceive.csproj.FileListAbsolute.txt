@@ -1,0 +1,10 @@
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\consoleReceive.exe.config
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\consoleReceive.exe
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\consoleReceive.pdb
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\RabbitMQ.Client.dll
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\bin\Debug\RabbitMQ.Client.xml
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\obj\Debug\consoleReceive.exe
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\obj\Debug\consoleReceive.pdb
+C:\Users\mayur\Documents\Visual Studio 2015\Projects\consoleReceive\consoleReceive\obj\Debug\consoleReceive.csprojResolveAssemblyReference.cache
